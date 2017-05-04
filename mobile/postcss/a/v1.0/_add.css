@@ -1,0 +1,14 @@
+body{
+	background:red;  
+}           
+a{width:500px;height:10000px;} 
+.none{   
+	display: none;     
+	width: 5000rm; 
+	height: 20rm; 
+}    
+b{
+	display: block;
+	height: 50px;
+	width: 1000rx;
+}

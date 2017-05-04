@@ -1,0 +1,34 @@
+body{height: 100px;}
+html{width: 100px; }    
+div{  
+	display: block;     
+	width: 22px;                            
+	height: 10px;                          
+	display: flex;             
+	#p{
+		display: inline-block;   
+		width: 30rm;                   
+		span{        
+			display: none;       
+		}
+	}          
+}         
+.a{   
+	display: block;              
+	background: red;                  
+	z-index: 10;                                        
+	color: #fff;                             
+}                                                         
+.jjjj{            
+	background:url(../img/icon/endTimeBg.png);  
+}   
+.jjjje{    
+	background:url(../img/icon/i-message.png);  
+}   
+.abs{
+	background:url(../img/b_List_Ico5n.png) no-repeat;
+}  
+.adddbs{ 
+	background:url(../img/icon-btn/1.png) no-repeat;
+}   
+@media(ddd){} 

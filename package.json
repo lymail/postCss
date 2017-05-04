@@ -1,0 +1,25 @@
+{
+  "name": "qycss",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "qycss": "./bin/qycss.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "chokidar": "^1.6.1",
+    "postcss": "^5.2.17",
+    "postcss-clean": "^1.0.2",
+    "postcss-import": "^9.1.0",
+    "postcss-sprites": "^4.2.1",
+    "precss": "^1.4.0",
+    "spritesmith": "^3.1.1",
+    "colors": "^1.1.2"
+  }
+}
